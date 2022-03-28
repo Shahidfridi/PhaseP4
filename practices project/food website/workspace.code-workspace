@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Restaurant"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Restaurant\\Images"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Food Website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Restaurant"
+	}
+}
